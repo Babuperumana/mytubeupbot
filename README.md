@@ -24,3 +24,20 @@ This is a simple hobby project which I was really curious about to implement. Th
 * [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram")
 * [Google Client API](https://github.com/googleapis/google-api-python-client "Google Client API")
 
+### Setup
+
+:heavy_exclamation_mark: This project requires Python3.6 or higher
+
+**Clone and setup virtual environment**
+
+``` bash
+$ git clone https://github.com/Babuperumana/mytubeupbot.git
+
+$ cd mytubeupbot
+
+$ virtualenv venv
+
+$ source venv/bin/activate
+
+```
+
